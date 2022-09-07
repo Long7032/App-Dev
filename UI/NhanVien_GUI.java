@@ -246,6 +246,7 @@ public class NhanVien_GUI extends JFrame implements ActionListener, MouseListene
 	@Override
 	public void mousePressed(MouseEvent e) {
 		// TODO Auto-generated method stub
+		//Long test thử git
 
 	}
 
